@@ -1,0 +1,57 @@
+{
+  "archetype": "knife-hit",
+  "selection": {
+    "sprites/object": {
+      "pack": "physics-assets",
+      "source": "kenney",
+      "path": "objects/generic/physics-assets",
+      "type": "object",
+      "theme": [
+        "generic"
+      ],
+      "png_count": 333
+    },
+    "sprites/ui": {
+      "pack": "shooting-gallery-hud",
+      "source": "kenney",
+      "path": "objects/generic/shooting-gallery",
+      "type": "ui",
+      "theme": [
+        "generic"
+      ],
+      "png_count": 48
+    },
+    "backgrounds/menu": {
+      "pack": "craftpix-sky-2d-game-backgrounds",
+      "source": "craftpix",
+      "path": "backgrounds/sky/craftpix-sky-2d-game-backgrounds",
+      "type": "background",
+      "theme": [
+        "sky",
+        "nature"
+      ],
+      "png_count": 33
+    },
+    "backgrounds/game": {
+      "pack": "free-sky-with-clouds-pixel-art-backgrounds-pack-3",
+      "source": "craftpix",
+      "path": "tilesets/side/generic/free-sky-with-clouds-pixel-art-backgrounds-pack-3",
+      "type": "background",
+      "theme": [
+        "nature"
+      ],
+      "png_count": 7
+    }
+  },
+  "buttons": {
+    "color": "Blue",
+    "files": [
+      "button_rectangle_depth_gradient.png",
+      "button_rectangle_depth_flat.png",
+      "button_round_depth_gradient.png",
+      "button_round_depth_flat.png",
+      "star.png",
+      "star_outline.png"
+    ]
+  }
+}
