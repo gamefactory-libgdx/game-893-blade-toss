@@ -1,0 +1,31 @@
+{
+  "title": "Blade Toss",
+  "orientation": "portrait",
+  "genre": "aim-arcade",
+  "mechanic": "tap",
+  "description": "A wooden log rotates in the center of the screen. Tap to throw a blade from the bottom - it sticks where it lands. Never hit a blade already in the log or it is game over. Occasionally an apple appears on the log - hit it for a big bonus. 10 stages with unique rotation patterns: slow steady, fast, reversing, alternating fast and slow. Clear all throws per stage to advance to the next.",
+  "screens": [
+    "MainMenuScreen",
+    "StageSelectScreen",
+    "GameScreen",
+    "StageClearScreen",
+    "GameOverScreen",
+    "LeaderboardScreen",
+    "SettingsScreen",
+    "HowToPlayScreen"
+  ],
+  "slug": "blade-toss",
+  "archetype": "knife-hit",
+  "buttonStyle": "rounded",
+  "font1": "Ferrum.otf",
+  "font2": "Toxigenesis.otf",
+  "colors": {
+    "primary": "#F5F5F5",
+    "accent": "#E53935",
+    "bg": "#2D2D2D",
+    "text": "#FFFFFF"
+  },
+  "gameId": "game-893-blade-toss",
+  "gamePath": "/home/kaliuzhnyi/asocity/projects/game-893-blade-toss",
+  "packageName": "com.bladetoss000893.app8116"
+}
